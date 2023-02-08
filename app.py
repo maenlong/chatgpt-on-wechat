@@ -1,4 +1,5 @@
 # encoding:utf-8
+print('mymain检查点')
 
 import config
 from channel import channel_factory
